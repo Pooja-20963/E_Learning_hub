@@ -1,0 +1,26 @@
+login - password (index.html) 
+search (index.html) 
+css (index.html) 
+add something on this page(firstpg.html) - mrunal
+css (firstpg.html)
+
+feedback backend-mrunal
+
+
+admin-->
+feedback 
+upload data--> depart--> year-->sub-->unit-->note(multiple)-->youtube(multiple)-->book(multiple)
+
+---------------------------------------------------------------------------
+first dynamic 
+paper topic
+test 
+
+
+
+today-->
+profile
+feedback email authentication 
+
+admin side ---> feedback --> notes upload --> test upload -->news
+https://coek.dypgroup.edu.in/academics/syllabus/
